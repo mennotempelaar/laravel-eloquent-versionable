@@ -1,0 +1,17 @@
+{
+    "name": "mennotempelaar/versionable",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Mennotempelaar\\LaravelEloquentVersionable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Menno Tempelaar",
+            "email": "menno@made-foryou.nl"
+        }
+    ],
+    "require": {}
+}
